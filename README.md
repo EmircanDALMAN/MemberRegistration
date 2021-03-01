@@ -7,4 +7,5 @@
   <li> Ninject</li>
   <li> Postsharp</li>
   <li> Fluent Validation</li>
+  <li> Kurumsal Mimari</li>
 </ul>
